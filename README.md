@@ -1,1 +1,3 @@
 # spacemacs-settings
+
+* test
